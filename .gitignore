@@ -114,3 +114,6 @@ build
 
 # mypy
 .mypy_cache/
+
+getImages
+battleImages

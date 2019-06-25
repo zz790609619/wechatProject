@@ -88,7 +88,7 @@ def print_others(msg):
             return reply
     elif type == 'Picture':
         # 识别图中文字
-        # path = os.path.join('./图片验证/' + msg.file_name)
+        # path = os.path.join('./getImages/' + msg.file_name)
         # msg.get_file(path)
         # getMessageByImage(msg.file_name)
         # 自动回复表情包
@@ -109,7 +109,7 @@ def getMessageByImage(imageName):
     res = requests.get(takonUrl)
     takon = res.json()['access_token']
     url = 'https://aip.baidubce.com/rest/2.0/ocr/v1/general?access_token=' + takon
-    with open(current_path+'/图片验证/'+imageName, 'rb') as f:
+    with open(current_path+'/getImages/'+imageName, 'rb') as f:
         data = base64.b64encode(f.read())
     imageEncode = str(data, 'utf-8')
     params = {"image": imageEncode}
@@ -168,7 +168,7 @@ def Downloader(step):
             imgname = a[1]
             imgname = re.sub('\/|\\\\|《|》|。|？|！|\.|\?|!|\*|&|#|(|)|(|)|（|）', '', imgname)
             imgtype = a[0].split('.')[-1]
-            path = ('斗图啦/%s.%s' % (imgname, imgtype))
+            path = ('battleImages/%s.%s' % (imgname, imgtype))
             print(path, a[0])
             # 用urllib库来进行保存
             dir = os.path.join('./', path)
@@ -192,7 +192,7 @@ imgs=[]
 # 寻找图
 def searchImg(keywords):
     print('keywords: %s' % keywords)
-    for name in glob.glob(current_path+'/斗图啦/*'+keywords+'.*'):
+    for name in glob.glob(current_path+'/battleImages/*'+keywords+'.*'):
         imgs.append(name)
 
 
