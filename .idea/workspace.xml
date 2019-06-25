@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa87cda4-de86-435c-ab9e-cb471034f1f9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello.py" afterDir="false" />
-    </list>
+    <list default="true" id="fa87cda4-de86-435c-ab9e-cb471034f1f9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hello.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="90" column="42" selection-start-line="90" selection-start-column="42" selection-end-line="90" selection-end-column="42" />
+            <state relative-caret-position="364">
+              <caret line="95" column="32" selection-start-line="95" selection-start-column="30" selection-end-line="95" selection-end-column="32" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -73,6 +71,7 @@
       <find>baseurl</find>
       <find>cron</find>
       <find>json</find>
+      <find>battleImages</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -186,12 +185,12 @@
       <workItem from="1561107049055" duration="944000" />
       <workItem from="1561183129290" duration="7912000" />
       <workItem from="1561341304068" duration="23635000" />
-      <workItem from="1561454708852" duration="474000" />
+      <workItem from="1561454708852" duration="705000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70802000" />
+    <option name="totallyTimeSpent" value="71033000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -495,8 +494,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hello.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="90" column="42" selection-start-line="90" selection-start-column="42" selection-end-line="90" selection-end-column="42" />
+        <state relative-caret-position="364">
+          <caret line="95" column="32" selection-start-line="95" selection-start-column="30" selection-end-line="95" selection-end-column="32" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
