@@ -90,9 +90,21 @@ ENV/
 env.bak/
 venv.bak/
 
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
 # Spyder project settings
 .spyderproject
 .spyproject
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
 
 # Rope project settings
 .ropeproject

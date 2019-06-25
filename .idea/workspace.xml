@@ -1,0 +1,1521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa87cda4-de86-435c-ab9e-cb471034f1f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wxpy.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/wxpy.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/1km，出来打球.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/2018成绩单.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/24K版纯金滑稽.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/8说了，开冲.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/Di Molto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/FGNB.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/FUCK.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/JB图，劳资都懒得接.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/OK.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/SB一个.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/TMD，一不留神，又让你装了个逼.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/The World.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/VCG视觉中国，你这图不错，可下一秒就是我的了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/WDNM.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/good你妈个铁头morning.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/lay了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/nmsl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/一个基佬一台戏.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/一人一杯.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/一人我饮酒醉.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/一位成续不佳的同学转身离去.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/一分钱，害的我盯着手机等半天.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/一切爱豆，皆是虚妄.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/一夜之间，南方人变成了南方人.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/一如既往的帅气.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/一巴掌呼死你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/一派胡言.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/一派胡言.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/一点钱的事土豪.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/一群傻屌.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/一群凡人.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/一群凡人.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/一群神经病.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/一起洗枣吗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/一起玩啊.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/丈人三十，猛如虎四十，坐地能吸土.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/上厕所几把都不扶，就服你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/下不了床的就是你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/下雪了，我需要你的拥抱.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/不买iPhoneX，怎么装X.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/不吃谢谢.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/不听~不听.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/不够色.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/不好意思，姑娘让你受精了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/不对，好像.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/不敢相信.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/不明真相的抽烟美军.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/不是人渣中的品禽兽中的首领.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/不是我不跑，被控成狗，怎么没人保我.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/不是说问题不大么.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/不服单挑.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/不服单挑啊.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/不服来咬我.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/不服，你特么顺着网线来打我啊.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/不知该摆出什么表情.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/不知道为什么，柠檬它围绕着我.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/不行，我要听语音的.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/不要祟拜我，我只是人民币的搬运工.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/不许笑.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/与我斗图，就是这般生不如死.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/丑比群主.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/两耳不闻窗外事，一心只读圣贤书.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/为了你，三年算什么.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/为了钱尊严算什么…开价吧多少.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/主要是没钱.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/举报成功，送您一程.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/么.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/乔瑟夫，去拿龙舌兰.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/乖巧可爱.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/也不知道哪来的自信.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/交个朋友，以后见面好借钱.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/亲你一下.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/人家不嘛.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/人家喜欢你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/人有206块骨头，见了你我有第207块.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/人狠话不多.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/人间不值得.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/什么.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/什么我不帅.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/今夜不让你入睡.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/今天不蹦迪明天变辣鸡.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/今天在场的傻逼全都得死.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/今天想骂人，所以不骂你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/今天我就要伸张正义.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/今天由我快乐小熊夺得熬夜冠军.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/今天还要加班.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/今天那么冷 要不要来一个爱的抱抱啊.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/今晚月色真美.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/今晚杀闰土.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/从此与农药一刀两断.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/他妈哪来的傻屌.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/他妈的又冷场了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/他就是昨天吃了屎，还很陶醉的蠢B.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/以后的LOGO.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/任噫呜呜噫.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/企鹅躺倒在地.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/似懂非懂.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/似懂非懂.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/低俗庸俗粗俗恶俗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/何止有点6，那完全就是奈斯.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/作业不想写就不写没人写我写.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/作为一个靓仔，我已经习惯了孤独.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/作为一条咸鱼，我很累.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你rush像蔡徐坤.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你不回答我这很难办.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你不爱我了.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你个死变态，挂个女生头像差点让老子误认是个妹子.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你个狗日的.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你们不用收割吗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你们在放什么狗屁.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你们太强了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你们已经成功加为好友了，开始交换沙雕表情吧.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你们快看楼上.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你傻逼吧，滚蛋蛋.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你像不像个花痴，你自己想想.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你全家都是驴.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你别给我装蒜.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你到底什么时候才能主动加我.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你去吧智障儿童欢乐多.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你又骗俺.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你发的是八百年前的图吗.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你可知道本少爷最喜欢狂妄自大的女人了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你吃不吃不吃我都吃了啊.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你听听这是人话吗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你咬我啊.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你哪个村的猪这么膨胀.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你喜欢吃屎，我喂过你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你喜欢唱，跳，map，篮球.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你喜欢我吗如果不喜欢我再想想办法.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你在想屁吃.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你在说什么逼话你连安利狂魔都不是.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你在说什么逼话，你连安利狂魔都不是.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你在跟我 beebee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你好好想想你不丑会这样吗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你好狗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你妈死了，崽种.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你妈炸了你妈炸了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你妈的骨灰在家等见你最后一面呢.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你妈的，为什么.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/你妈的，为什么.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你妈逼好吃吗你天天吃有意思吗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你就是个屁.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你开始了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你得艾滋的事，大家都还不知道吧.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你快乐吗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你快看啊.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你怎么回事小老弟.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/你怎么回事小老弟.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你想死直说.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你懂个鸡吧.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你懂我意思吧.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你懂的.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你房间脏了乱了，别动手了，没人清我清.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你手机怎么都是水汽，赶紧擦擦.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你才是憨逼乡.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你打球像蔡徐坤.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你打野像.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你把大家给逗乐啦.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你抓准我，我是你的了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你是不是没有遭到社会的毒打.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你是个傻逼.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你是个狗鸡吧.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你是傻逼.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你是张大大.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你是母猪.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你最丑，最好不要讲话.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你有点蔡徐坤，不是很想跟你玩.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你根本不知道我喜欢你你就是个智障.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你根本就不是靓仔.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你比真皮沙发还皮.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你爹来了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你牛逼，是个伟人.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你特么吃个屎，还吃出优越感来了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你特么是狗吧，一直就会发语音.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你看你脸皮厚的.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你真是一个又皮又欠揍的女孩.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你真是一个奶子又小打游戏又菜的女孩子.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你真是个又皮又欠揍的女生.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你真的很鸡车耶~.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你算哪瓣蒜.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你群你群.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你能不能成熟点.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你能把我咋地.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你能拿我怎么样.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你要幸福小几把.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你让我说什么好.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你讲咩啊，死靓仔.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你误会了，那人其实是你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你说人生还有什么意义.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你说你妈个球呢.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你赢了，但你妈在劫难逃.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你这傻逼傻得挺先进的，是美国进口的吗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你这只臭猪.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你这只臭猪猪.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你这是在玩火，让你一个月都下不了床.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你闭嘴月经失调的男人.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你需要动能麻醉.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你马上就要被禁言了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/你骂我我无所谓，我真希望你能打我.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/信佛不杀生快滚.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/修雅警告.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/俺来啦.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/做我的小公主只吃鸡巴不吃苦.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/做我走狗吧.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/停，这个逼装得不行.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/傻逼东西，你赢了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/傻逼东西，老子忍你很久了，狗东西.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/傻逼们晚安.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/傻逼狗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/傻逼肥猫就是一条狗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/儿子们，爸爸来了.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/兄弟，喝杯敌敌畏压压惊吧.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/先低头总是对的.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/克制期待.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/全国制霸.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/兴奋看电脑.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/典明批评.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/再BB我就毙了你.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/再他妈秀恩爱试试.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/冒泡狗轮到你说话了吗我操你妈.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/凄凉.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/准备打人.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/凉了.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/几十岁的人了，就不能像我一样成熟一点吗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/几天不见，还是一群垃圾.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/凭本事单身不仅丑，而且穷并且懒情商还低.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/出来.gif" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/出来.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/出来斗图草泥马.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/分享你妈了个逼咋不分享你妈给我们玩玩.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/分头行动.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/分手，才是更好的选择.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/列麻批娃儿铲你狗日两耳屎.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/刚谁说要去打篮球.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/别动好好当WIFI.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/别听傻屎乱说.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/别慌，小场面.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/别看，会硬的.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/别给我整这些的.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/别艾特我好吗我不是你爹我是你爷爷.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/别逼我出手，发起疯来我自己都怕.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/刺激.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/剥光女群员.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/动词他次，动词他次，嗨起来.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/化了.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/北方式懵逼.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/北方酱说出了流弊的英语.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/卑井离乡.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/卑微.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/单身久了成傻逼了滚去玩你麻痹的充气娃娃.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/卧槽.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/卧槽.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/卧槽她好可爱.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/卧槽，吓我一跳.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/危.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/原味奶茶喝腻了吗来一杯新款奶绿吧.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/去你妈的，你肾虚啊，睡这么早.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/去打王者荣耀.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/又是你这个A罩妹子.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/反正你没有，快滚.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/发出惊叹的声音" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/受360保护中.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/变态.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/只想默默玩石子.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/只要送我这个，我就天天和你好今生今世永生永世只做你的将军.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/叫声爸爸来听听，这钱就是你的了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/叫声老公听听.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/叫爸爸，没大没小.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/可以.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/可以别吵吗打扰我思路了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/可以可以.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/可以开车了，可以开车了.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/可以的，我的小宝贝.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/可兄弟你妈已经凉了，你还在这喷粪.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/可怜无助又肥胖.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/可怜猫.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/可怜猫.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/可爱，老实巴交.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/可靠.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/史蒂夫，你妈的狗东西.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/吃个鸡吧，冷静下.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/吃你脑痹饭，睡你痹览全群就你一个不是金期了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/吃冰淇淋.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/吃屎吧你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/吃手手.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/吃手手.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/吃热狗吧你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/吃过屎的人就是不一样.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/吃饭了小新.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/吃鸡吗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/各部门注意，马上就6点了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/各部门请注意，下班时间到了，请滚不要浪费电费.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/吐瓜子.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/向狗群员们敬礼.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/向知识的苦海前进.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/吓得我乘凤破浪不要不要的.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/吓得我抱紧了你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/听说有人揭竿起义理员.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/吼屎啦.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/呆呆的.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/告诉你吧，不可能的.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/呵，瓜皮.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/呸.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/呸.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/呸，骚货x3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/呼叫二狗子呼叫二狗子，听到请回答 overover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/呼叫帅群员，出来理我一下.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/哇的一下就哭了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/哈.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/哈哈哈.gif" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/哈哈哈.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/哈哈哈哈.gif" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/哈哈哈哈.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/哈哈哈哈我嬴了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/哈坦.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/哎呀不小心，把楼上的傻逼放出来了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/哎呦卧槽.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/哎呦，我操.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/哎鸭.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/哎，只卖了五毛.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/哥单身十八年的手，可不是闹着玩的.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/哥哥我想给你口.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/哥哥我来了.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/哥哥我来了.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/哥哥，上分的事就拜托了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/哥哥，今晚杀谁.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/哦.gif" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/哦.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/哦哦.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/哦哦.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/哦哦.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/哦是吗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/哭唧唧.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/哼不想理你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/哼哼，无聊的人类.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/哼，气死人家啦.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/唾你麻痹，起来.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/商业互吹.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/啊.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/啊.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/啊~五百年前的味道.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/啊，老公.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/啥风太大我听不清.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/啾咪.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/啾咪.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/喜号的减视.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/喜提MVP.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/喜的假的你可不要骗我.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/喝猹.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/喝茶看戏.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/喝饮料.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/嗨偶尔打个招呼，熟悉熟悉以后，见面可以不用熟悉直接借钱.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/嗨喽，丑逼.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/嗨起来.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/嗯.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/嗯.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/嗯嗯.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/嘎.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/嘟嘟嘟通话时间0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/嘤嘤嘤.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/嘤嘤嘤.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/嘤嘤嘤，不开心.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/嘤嘤，哎嘤不出来.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/嘴角勾起孤度.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/嘻嘻，你个傻子.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/嘿嘿嘿.gif" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/嘿嘿嘿.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/嘿嘿，迟早把你弄上床.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/噗.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/噗.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/噗呲.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/噢.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/四川省还是你最成功.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/回旋戰.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/因崔斯汀.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/国要强，我们就要担当.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/图不重要看字.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/图不重要看字.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/图片涉嫌违规禁止访问.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/在一起吧祝你们性福.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/在我心中你最美.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/在线钓鱼.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/场面可以再激烈点吗我没见过世面.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/墙中自有墙中手.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/夜深人静准备修仙.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/大家听我解释.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/大家继续啊.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/大禹在你妈逼里治水.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/天堂向左，战士向右，你撞壁吗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/天马流星拳.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/太可怕了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/太慘了真的太惨了.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/太真实了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/太那个了.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/太那个了.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/女人心猜不透，只因胸前肉太厚.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/女人的心看不透只因胸前肉太厚.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/女孩子要矜持，别动不动就说爱我.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/女朋友都没有还整天吹牛逼.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/女装群主女装管理.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/奶子，奶子给我看一下.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/好了继续吧，请开始你的表演.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/好他妈厉害.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/好冷，包被子.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/好懒，肝不动了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/好我来唱歌.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/好污得拍下来.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/好的.gif" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/好的.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/好的我知道了，你是猪.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/如果不买，我会变得富有吗.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/如果不是真的废物，谁又愿意混吃等死呢.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/如果不是真的废物，谁又愿意混吃等死呢.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/如果以前我有什么得罪你的地方.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/妈妈说遇上你这种人最好报警.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/妖孽休得猖狂.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/妖孽，还不现出原形.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/妹奶子做我女朋友好吗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/姐姐我想.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/委屈了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/委屈巴巴.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/姨妈配酒越喝越有.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/存了我发的表情包就是我的人.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/宝宝你真可爱.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/害怕得无法吸.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/害羞的坏坏.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/容我睡个82年的少妇压压惊.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/寂寞加我，头像本人.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/富婆抱抱我.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/对不起我不该比你帅.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/对不起，我永远18岁.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/对你这种臭不要脸的，看谁会理你.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/对啊.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/对啊，我也这么认为.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/对方不想和你讲话，并将你扔出去.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/对牛弹琴，大慨就是在说我.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/对，见人就砍.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/寻儿启事特点，喜欢发图顶撞我.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/将头发梳成大人模样.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/小东西长得可真随意.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/小伙子，禁言室欢迎你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/小卖部.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/小姐姐请问这两个字怎么念欧巴.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/小姐姐请问这两个字怎么念男神.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/小子，跟我斗图么.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/小学生说话注意点.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/小小年纪就这么装.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/小时候天真的以为全世界都喜欢我，长大后才知道是全宇宙.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/小朋友不要膨胀.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/小朋友不要跟大人闹知道吗.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/小朋友你过分了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/小母狗屁股翘起来.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/小花酱你又来传播负能量，今天房子没漏水吗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/小鸭子.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/少谈恋爱多看腹肌.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/少跟我俩叭叭，回家喂鸡去吧你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/少跟我俩叭叭，回家喂鸡吧去吧你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/就1个可以吗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/就冲你这话，今天必须揍你.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/就当作你家铲我叼你老母，扑街我顶你个肺，傻屌.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/就没人理他一下吗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/就算劳资是屎，劳资也是祖国的化肥你TMD是什么狗玩意.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/尴尬而不失礼貌的微笑.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/屌丝，什么年代了，还用魔法棒.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/差不多喽.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/已成年，发情的目光.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/已经很晚了，我要休息了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/巴拉拉七彩野猪能量.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/帅哥来了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/帅醒了，想砍我渣渣.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/师傅，前面是火焰山放你妈的屁，那是南宁.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/希皮笑脸.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/带我装逼带我飞.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/年年一个人，我操你妈的，我跨你妈逼年我跨年.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/开车啦.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/开门，查水表.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/开饭啦.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/弟弟.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/弟弟眼神.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/弟弟，别上了妖精的当.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/张先生的肯定.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/弱逼，你也配跟我斗图.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/弹死你这个猪皮.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/弹死你这个猪皮.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/当场去世.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/当场愣住.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/当年我背井离乡之后，乡里人再没能喝上一口井水.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/当我前狗好.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/形卡巴卡.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/很黄很暴力.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/律师函警告.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/微信上吊.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/心态崩了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/心情复杂.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/心情复杂.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/心痛啊.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/忍一时越想越气.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/快抱住我.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/快道歉.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/怀疑，你无照驾驶示你的敬礼.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/怂巴巴，害怕专用章.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/怎么没人讲话都在干些不可描述的事嘛.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/怎么，你不服.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/思考中.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/思考中.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/总之一句话，看我不爽，你可以禁言我.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/总之只要打倒敌人便会受到敌的增帳.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/总之就是一句话看我不爽、你可以退群.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/总有人要当废物，为什么不能是我呢.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/恋爱干万条，安全第一条，网恋太疯狂，亲人泪两行.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/恕我直言，在座的各位都是辣鸡.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/想吃小孩.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/想吃小孩.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/想尝尝合不拢腿的滋味么.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/想我这样的好男人，不知道以后便宜那家姑娘.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/慢点动作，摆好不要动.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/成了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我TM就不认你做老大你能怎样.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我不仅要盗你的图，还要在你面前发很多遍，很多遍.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我不依.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我不吃我没钱.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我不听.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我不该哭的，我可是空间搞笑说说王.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/我不该哭的，我可是空间搞笑说说王.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我为什么还是单身狗.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我也爱你mua.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我他妈拍死你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我们件么时候才能有等啊.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我们群主，敢隔着五档电风扇日纹肉机.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我仿佛错过了什么.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我佳丽三千又缺你一声宝贝.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我再也不会快乐了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我十几岁给个面子.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我去你大爷的.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我去你妈挂断电话再见.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我去看群主在干什么.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我去睡觉了你们要好好做人.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我反手给你张过去的CD，听听那时我们的爱情.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我发现你傻了吧唧的.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我可以说两遍操你妈.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我可以，我能行明天会更好加油真好.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我吃醋了.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我同你讲你唔好甘老嗨我迟早沟到你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我回来啦.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我在床上等你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我好柔弱啊.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我完全赞同楼上的说法.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我宣布，斗图大会现在开始管理员.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我宣布：退出LOL明年在玩.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我寻思我好像喜欢上你惹.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/我寻思我好像喜欢上你惹.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我小叮当要剪你的包皮.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我就奇怪了，你们都不用割猪草的吗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我就爱操你妈.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我差不多是条咸鱼了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我很欣赏你，偷了我的图还敢在我面前发.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我怀念的是污话不说.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我怀疑你根本不是咸鱼.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我想看批.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我想要杀死一个臭女人.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我愿意.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我懂，我会照顾好嫂子的.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我我……我需要一点特殊服务.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我我喜欢你先跑39米.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我才不会和一条狗计较.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我打游戏特别菜，可以偷偷带我.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我承受得了，你说吧.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我把你妈吊着打，你爸在旁边鼓掌.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我操了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我操你妈，吃鸡巴不吐鸡巴皮.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我斩.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我时刻准备.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我明白了你想当我老婆.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我明白了，你想当我老婆.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我是不是马上要死了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我是小仙女，我是仙猫.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我是很美，但是你们抢不走我的脸.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我是文化人不想骂你，我直接咬你的乳头.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我是肥猫，我爱吃粑粑.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我有4块钱.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我有些哽咽.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/我有些哽咽.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我有点喜欢你，才找你讲话你干嘛凶我.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我有点想把你妈杀了，能把你这种傻生出来的，肯定不是什么好逼.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我永远喜欢德意志.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我永远喜欢霞之丘诗羽.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我求打.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我没有送，人家凭本事杀的我，能理解吗.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我没说话我发图而已.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我洗无净等你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我爱中国.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我爱你.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/我爱你.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我现在很生气谢谢.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我用真心对你，你却用表情敷衍我.gif" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/我用真心对你，你却用表情敷衍我.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我由衷的向您说一句.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我的内心几乎是崩溃的.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我的笑容逐渐放肆.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我的经济条件你也知道.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我的骄傲放纵.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我看不见，快点亲我.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我真的很想融入你们但我不会唱跳rap籃球.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我突然烦你了，拜拜.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我笨，所以表示不懂.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我给你一个重新组织语言的机会.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我耳朵瞎了，听不到.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我胖虎今天要打死你们俩.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我能怎么办，我也很困啊.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我被爱判处身孤寂.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我要草烂岳磊的大屁眼子.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我觉得不行.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/我觉得不行.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我觉得我很委屈.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我超可爱的.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我跑路了拜拜.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我还skr未成年.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我还是离开好了.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/我还是离开好了.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我还有机会吗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我这么可爱，你都要骂你还是不是人.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我这么长的好看不知道以后会便宜了谁.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我这人，比较低调.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我钱呢.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/我靠，这个人好胖.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/或许多年以后再听到我的名字，你会笑着说不认识.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/战事繁忙，告辞.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/截图选老婆.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/所以别再问我你咋还单着呢.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/手.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/打你.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/打你.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/打你脏了老子的手.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/打地.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/打字狗，我把你妈野逼操烂.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/打扰下.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/打扰了.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/打扰了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/打篮球吗我蔡徐坤.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/打这两个字很累吧.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/打逆战怎么和蔡徐坤一样.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/扫把吉他.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/把你奶里.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/把它戴上，不然不要进校门.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/把把p90，永远都能赢.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/报个小板凳，静静地听吹牛B.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/抱住小可爱.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/抱大腿.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/抱抱.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/抱抱.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/抱抱.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/抱抱我的小宝贝儿.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/抱歉，我想静静.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/拉黑吧，有事漂流瓶联系.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/拍下犯罪证据.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/拜拜.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/拼多多，我们走.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/拿刀来捅我啊.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/拿着手机使劲向地下摔，动作红包.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/挂断.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/挠头一下.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/捂脸了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/捅死你.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/捏一把.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/掐洗你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/探头.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/接受现实吧我会对你好的.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/搞一个.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/摇头晃脑.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/摊手.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/摸一下你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/摸屁股打屁股.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/撒钱.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/撤回有用吗插进去在拨出来等于没插吗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/操你妈了个逼的，MK7扇扁你的狗头.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/操你妈我有点生气了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/操你妈，听到没操你的妈.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/收到收到over.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/收声啦肥宅.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/放个屁给你吃.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/敌敌畏.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/敢不敢单挑.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/整天欺负我长的漂亮.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/整天欺负我长的漂亮.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/斗了一天的图，老子先歇会.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/斗图斗不过就玩禁言，老子分分钟教你做人管理员.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/新来的不知道进群要脱衣服检查身体吗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/新来的会装逼吗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/新来的是哑巴吗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/新鲜户体无添加.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/无敌是多么寂寞.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/无法肤吸.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/无知草民闭嘴.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/日火老碳酸.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/早上好.gif" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/早上好.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/早什么早，砖都装了两车了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/早啊.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/早穿棉袄午穿纱，围着火炉操你妈.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/时间不知道说什么就这样吧.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/旺财去咬他.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/明白了.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/明白，开车是不对的行为.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/是.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/是吗你个狗叼.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/是吗，我也这样觉得.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/是哪个傻嗨要搞事，巡警公安.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/是本咕输了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/是滴鸭，是滴鸭.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/晚安我去睡觉了，你们继续祝大家早日猝死.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/曾经我也是个人.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/最喜欢的六个字，对方正在输入.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/有一天，我们语文老师要我们默写这个字，同桌不会写.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/有也不给，滚.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/有了这个要女朋友有什么用守望先锋.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/有你卵事，一边吃屎去.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/有我这么可爱的网友.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/有敢和我斗图的小逼崽子吗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/有没有小哥哥带躺的.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/有点冷啊.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/有点意思.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/有点意思.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/有管理在吗我想弄死几个解解闷.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/有脾气，你把川科炸了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/有谁不服.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/有钱就是可以为所欲为.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/朕一日不死，你们始终是父皇的儿子.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/期待啦.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/期待的搓.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/杀不完的狗男人.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/来上我啊.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/来啊斗图啊，反正有大把时光.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/来啦来啦.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/来大麻守望先锋启动.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/来就来.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/来自鲁迅的凝视.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/来，一起搞，我攻你受，你爽我也爽.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/来，戴上.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/树叶的一生，只是为了归根吗迷茫.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/正传递正能量.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/此刻一位神马都不懂的萌新默地探出了头.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/此时一位网友路过.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/此时一位自称没看过的jojo的网友路过，心吾行澄如明镜知等.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/此时一名正在溜徐坤的网友路过叫你妈逼汪汪汪汪法.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/此时，一位斗帝骑马路过.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/死八婆，老无喜欢你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/殴打弟弟.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/气得豹毙.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/气氛突然变得有些尴尬了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/求求你别骚了，品如没衣服穿了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/汝这小小孩童，出言如此狂妄，吾身焉能放纵汝狂吠无耻小儿拿命来.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/汪.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/汪汪.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/沙雕啊.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/沙雕指数满天星.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/沙雕指数满天星.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/没36D我也不加.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/没事，你忙，我都0k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/没事，你继我一直在.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/没关系我可以等你回我.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/没文化真可怕，只知道发箭头.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/没有啦没有啦，我也就一般可爱啦.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/没有妈妈.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/没钱说个JB.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/泥怎么这个亚子.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/泰拳警告.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/流口水.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/混元霹雳手.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/滑稽冒冷汗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/滑稽疑问.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/滚.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/滚你个辣鸡.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/滚犊子.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/满脸都透露着单纯.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/滴老司机卡.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/潜水狗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/火神伏尔甘，头给你打穿.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/灯下的我.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/点名夸奖.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/点赞吧.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/烂人.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/熬夜对身体不好，所以我建议各位通宵.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/爱你.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/爱你.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/爱你呦.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/爱你哟.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/爱情的巨轮说沉就沉.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/父母嫌弃你了吗.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/爷来了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/牛b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/牛皮牛皮.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/狗叫.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/狗狗.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/狗群员保护费交了没.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/猛男落泪.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/猛秃叼烟.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/猜猜我是谁.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/玩游戏不.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/现在的男人不提也罢.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/球归.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/生产滑稽.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/生气了.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/用力抱住胖胖的你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/略略略.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/疯狂了.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/瘫痪.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/白脸.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/百那你拘死我啊.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/盛大的智障狂欢.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/直烦人得想办法把这人吹起来.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/直男借条秋裤.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/直男她咋不喝热水呢.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/相依为gay.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/相拥而泣.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/看什么看，没见过白嫖啊.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/看你头像还以为是个妹子，没想到是个死gay.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/看到也没用，我还是撤回了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/看到男人就烦.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/看我的侧脸.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/看来不发图，是平息不了这场战争了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/看的老哥一鸟儿更.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/看见男人就觉得恶心连奶子都没有.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/看资就是你不顺眼.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/看黄书小黄鸡.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/真的可怕.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/真行.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/真行.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/真让龟头太.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/眨眼.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/眼睛流血.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/睡尼玛逼起来嗨.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/瞧你那样，跟傻逼似的.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/砍死你哦.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/确不做大哥的女人.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/磕头.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/祝你们搞基成功.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/离开应该要体面.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/秀恩爱的出门左转.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/秀恩爱，分得快.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/积极又向上.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/稍加思考.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/穷，要不是空气免费，我都活不到现在.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/空空，砍死它.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/空腹可以吃饭吗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/笑几把死嘻嘻.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/笑死我啦.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/笑的超甜.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/笑的超甜.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/等一个小哥哥的红点联系人.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/等你们睡着以后我们就开车.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/等我把刀磨好了我们就做姐妹吧，.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/等我，在上号了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/等着马上来.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/答应我今天的只用来尿尿好吗.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/答应我今天的只用来尿尿好吗.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/算了，我还是选择原谅你吧.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/管理员他们刷图禁言.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/管理员对于骂我的逆子们我也很无奈，是我教子无方.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/管理员知道禁言的痛苦吗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/精力充沛.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/红骷髅.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/织个绿帽子帅死你.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/给你两刀，cnmd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/给你荣颜色see.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/给大佬递茶.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/给我列队站好，等跟管理斗图小子们不想活了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/给老子GUN.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/绝望.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/继续编啊，别停.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/网恋选我我超甜.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/网恋都没人要的傻逼.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/美美哒.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/羞涩.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/群主快发红包.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/群友们是真的很严格.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/群里太安静了.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/老公.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/老公我来啦.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/老婆乖，摸摸头.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/老婆最可爱是我最爱.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/老子一上线，傻逼死一片.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/老子一上线，傻逼死一片.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/老子也是跟着斯大林元首打过仗的人，会怕你这傻逼.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/老子今天就骂.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/老子最烦女人了，给我滚.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/老子的锭子，嗯是握了又捏.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/老子给你妈一锤.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/老子给你妈一锤.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/老子问你话呢操你妈.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/老实人的笑容.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/老实点，每次扫黄都有你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/老板，给他来碗屎冷静一下.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/老汉推车.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/老阔都给你打灰.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/老阿姨不要装嫩可以吗好恶心.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/而我不一样.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/肚子好饿，早知道不做安全了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/肥猫我喜欢你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/肯定有个傻逼来骂我.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/胖虎被打.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/胸大不大的无所谓，主要是喜欢b紧的.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/能借我三十万吗我想娶个媳妇.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/能给我介绍几个富婆吗我不想努力了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/能饮一卑无.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/脑残晚期，请大家多多关爱他.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/脸红.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/舌吻吗宝贝.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/舔狗总以为自己能舔到，但殊不知一切都是徒劳的.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/艹了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/苦涩.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/莫挨老子.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/莫挨老子.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/莫说辽眼泪止不住佬.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/菜狗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/菠萝可乐达，把你人头拿.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/蒙娜丽莎的假笑.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/蔡徐坤出来打球.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/蔡徐坤小鸡吧，屁眼里塞两小黄瓜.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/蔡徐坤，出来打球.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/蔡徐坤，出来打球.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/虽然不知道怎么接你的图，我觉得操你妈肯定没有错.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/蚂蚁花卑.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/行行好给点吧.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/被命运锁住了喉咙.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/装死.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/西方不亮东方亮，你爸啥样我啥样.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/要不是丑不过，早他妈和你翻脸了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/要亲亲抱抱举高高.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/要亲亲要抱抱要举高高.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/要点碧蓬吧.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/见过那么多猪，还是你最可爱.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/警察正义势力登场.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/认识你感觉好丢人啊.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/认识你感觉好丢人啊.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/让你看我不顺眼的地方.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/让我舔舔的舌头会让你爽的.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/让霸气的老攻给你个拥抱.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/让龟头术.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/论斗图，我必定凌驾于你们这群凡人.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/识破.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/该配合你演出的我，尽力在表演.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/诱惑.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/说了这么久，到底是我操你妈还是你操你妈.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/说啥都没用，就是叼你老母.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/说大事专用图.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/说话怎么这么屎，不然发张自拍来看一下啊.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/说话说话.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/说起来有点下流.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/诶嘿嘿嘿.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/请你不要再三羞辱我.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/请问什么时候开车.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/请问你们看见群主了吗.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/请问是谁给你自信让你发自拍的.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/请问这001什么情况.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/谁苍老师还是小译泽老师.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/谋闷台.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/貂蝉姐姐交个朋友好么.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/贫道降妖多年，第一次遇到你这么骚的.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/贱人，看贱.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/贵群真特么乱慌了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/赞赞赞.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/走了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/走吧，这次我带钱了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/走开，丑东西.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/起床打火影了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/超难过.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/越挠越爽.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/跑啊，怎么不跑了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/路过，你们继续.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/踢死小黄鸡.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/蹲着尿尿的加我.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/转圈圈.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/辛苦啦，给你捶捶背.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/辣鸡.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/辣鸡.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/还挺牛.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/还挺牛.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/还有很多操作.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/还没有告诉你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/还没被操爽.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/这TM什么鬼啊.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/这下赞得爽吧.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/这不合适吧，兄弟.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/这个世界太乱.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/这么，你很勇哦.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/这傻属到底要表达什么.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/这图谁给你的.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/这孩子…或许脑袋有毛病.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/这就触及到我的知识富区了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/这操作和手法你是蔡徐坤.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/这操作和手法你是蔡徐坤.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/这是事实.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/这群真沙雕NB.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/这该死的DNF竟如此好玩.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/这谁顶得住啊.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/进人养生模式.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/送皮肤.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/送给楼下的有缘人.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/那个那个.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/那几个丑比.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/那是你，智障.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/那是我的图.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/邪魅一笑.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/都别告诉他.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/都是人才.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/都说了，我们是正规群.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/鄱阳人无所畏惧.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/金刚伏魔杖.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/锁喉.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/长肚子滑稽.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/长能酎了哦，宝宝.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/關於感情問題，我全部建議分手.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/闭止我的小耳朵，我升都没听见.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/闰土你个垃圾出来受死.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/闰土累了赶紧娇喘不然，死.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/陷入沉思.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/随便一个动作就能迷倒一众女生想想就开心.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/难说，毕寞肥猫是个傻逼.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/雪风搓一搓，生活乐趣多.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/预备擦泪.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/预备擦泪.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/风也温柔.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/飞常不屑.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/马上会有傻逼出来顶嘴.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/骚货.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/骚逼.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/鲁迅说你是傻逼.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/鸡你太美.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/鸡你太美.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/鸡巴.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/鸡的美.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/鸭笼警告.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/麻烦你能给我看一下lai子吗.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/麻烦理我一下不然我很尴尬.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/黑寡妇和鹰眼来到沃密尔星.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/黑猫.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/斗图啦/黑猫.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/斗图啦/鼻屎弹给你三小信.jpg" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pythonProject" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hello.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="127" column="57" selection-start-line="127" selection-start-column="57" selection-end-line="127" selection-end-column="57" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../pythonProject/venv/Lib/site-packages/wxpy/api/bot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="458" selection-start-line="458" selection-end-line="458" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/python/Lib/threading.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="864" selection-start-line="864" selection-end-line="864" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/python/Lib/urllib/request.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2265">
+              <caret line="326" column="23" selection-start-line="326" selection-start-column="17" selection-end-line="326" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>map</find>
+      <find>mps</find>
+      <find>msg</find>
+      <find>register</find>
+      <find>Downloader</find>
+      <find>baseurl</find>
+      <find>cron</find>
+      <find>json</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/hello.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="11" />
+    <option name="y" value="86" />
+    <option name="width" value="1400" />
+    <option name="height" value="994" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pythonWeChat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonWeChat" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.hello">
+    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hello.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hello" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa87cda4-de86-435c-ab9e-cb471034f1f9" name="Default Changelist" comment="" />
+      <created>1560826009427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560826009427</updated>
+      <workItem from="1560826014231" duration="37837000" />
+      <workItem from="1561107049055" duration="944000" />
+      <workItem from="1561183129290" duration="7912000" />
+      <workItem from="1561341304068" duration="23635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="70328000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49691358" visible="true" weight="0.13166311" />
+      <window_info id="Structure" order="1" sideWeight="0.50308645" side_tool="true" weight="0.13166311" />
+      <window_info id="Favorites" order="2" sideWeight="0.50078493" side_tool="true" weight="0.17857143" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.37093276" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.29718006" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.30985916" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32936078" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hello.py</url>
+          <line>119</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="request.read().decode('utf-8')" />
+        <watch expression="res.read().decode('utf-8')" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject$hello.coverage" NAME="hello Coverage Results" MODIFIED="1561101462260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonWeChat$hello.coverage" NAME="hello Coverage Results" MODIFIED="1561451712537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wechat$hello.coverage" NAME="hello Coverage Results" MODIFIED="1561454732289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonWeChat$test.coverage" NAME="test Coverage Results" MODIFIED="1561374207740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>res.read().decode('utf-8')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>res.text()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>res.read()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>data</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>data.text()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>res.json()['access_token']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>res.json().access_token</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>res.json()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>res.json()['content']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>msg.text</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>msg</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>msg['Text']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>res.content.decode('tuf-8')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>res.content</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>res.content['session_key']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>res</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>res.session_key</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>r.text</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>r.text['text']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>r.text.text</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/wxpy/api/messages/registered.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="79" column="20" lean-forward="true" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/itchat/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45">
+          <caret line="198" column="8" selection-start-line="198" selection-start-column="8" selection-end-line="198" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-133914220/sys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="586" column="20" selection-start-line="586" selection-end-line="586" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Lib/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/pkg_resources/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/apscheduler/schedulers/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="65" column="61" selection-start-line="65" selection-start-column="61" selection-end-line="65" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-133914220/atexit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="1623" selection-start-line="1623" selection-end-line="1623" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="230" selection-start-line="230" selection-end-line="230" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/wxpy/api/bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="453" column="39" lean-forward="true" selection-start-line="453" selection-start-column="39" selection-end-line="453" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pythonProject/venv/Lib/site-packages/wxpy/api/messages/message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pythonProject/venv/Lib/site-packages/apscheduler/schedulers/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="695">
+          <caret line="428" column="43" lean-forward="true" selection-start-line="428" selection-start-column="43" selection-end-line="428" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pythonProject/venv/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="90" column="4" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-133914220/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="352" column="34" selection-start-line="352" selection-start-column="25" selection-end-line="352" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Lib/base64.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2265">
+          <caret line="326" column="23" selection-start-line="326" selection-start-column="17" selection-end-line="326" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pythonProject/venv/Lib/site-packages/wxpy/api/bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="458" selection-start-line="458" selection-end-line="458" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="864" selection-start-line="864" selection-end-line="864" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="127" column="57" selection-start-line="127" selection-start-column="57" selection-end-line="127" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
