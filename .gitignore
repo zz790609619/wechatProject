@@ -117,4 +117,7 @@ build
 
 getImages
 battleImages
-.idea/ workspace.xm
+.idea/
+*.iml
+*.iws
+out/
