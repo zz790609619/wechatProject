@@ -8,8 +8,6 @@ import threading
 import glob
 import random
 import urllib
-import sys
-import ssl
 import base64
 import os
 from apscheduler.schedulers.blocking import BlockingScheduler
@@ -88,19 +86,20 @@ def print_others(msg):
             return reply
     elif type == 'Picture':
         # 识别图中文字
-        # path = os.path.join('./getImages/' + msg.file_name)
-        # msg.get_file(path)
-        # getMessageByImage(msg.file_name)
+        path = os.path.join('./getImages/' + msg.file_name)
+        msg.get_file(path)
+        return getMessageByImage(msg.file_name)
+
         # 自动回复表情包
-        searchImg('')
-        i = random.randint(1, 50)
-        msg.reply_image(imgs[i])
-        imgs.clear()
-        for img in imgs[:3]:
-            msg.reply_image(img)
-            print('开始发送表情：', img)
-            imgs.clear()
-        return reply
+        # searchImg('')
+        # i = random.randint(1, 50)
+        # msg.reply_image(imgs[i])
+        # imgs.clear()
+        # for img in imgs[:3]:
+        #     msg.reply_image(img)
+        #     print('开始发送表情：', img)
+        #     imgs.clear()
+        # return reply
 
 
 # 识别图片文字
@@ -120,6 +119,11 @@ def getMessageByImage(imageName):
     request = urllib.request.Request(url=url, data=postdata, headers=headers)
     res = urllib.request.urlopen(request)
     page_source = res.read().decode('utf-8')
+    info = json.loads(page_source)
+    s = ''
+    for i in range(0, int(info['words_result_num'])):
+        s = s + info['words_result'][i]['words']
+    return s
 
 
 def get_response(msg):
