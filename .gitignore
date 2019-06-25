@@ -115,8 +115,7 @@ build
 # mypy
 .mypy_cache/
 
-getImages
-battleImages
+
 .idea/
 *.iml
 *.iws
