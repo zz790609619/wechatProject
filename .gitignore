@@ -115,6 +115,9 @@ build
 # mypy
 .mypy_cache/
 
+*.png
+*.jpg
+*.gif
 
 .idea/
 *.iml
