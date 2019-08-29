@@ -6,6 +6,7 @@ import re
 import urllib.request  #urllib2
 import threading
 import glob
+import re
 import random
 import urllib
 import base64
@@ -55,9 +56,9 @@ def print_others(msg):
             cmdm = message.find('尺码代码')
             sfz = message.find('身份证')
             sjh = message.find('手机号')
-            sfzNum = '320324199608134190'
-            sjhNum = '18550857425'
-            cmdmNum = '7.5'
+            sfzNum = 'xxx'
+            sjhNum = 'xxx'
+            cmdmNum = 'F'
             if cmdm == -1:
                 if sfz < sjh:
                     reply = sfzNum+u'，'+sjhNum
@@ -77,18 +78,18 @@ def print_others(msg):
                 elif sfz < cmdm < sjh:
                     reply = sfzNum+u'，'+cmdmNum+u'，'+sjhNum
             return reply
-        else:
-            # 机器人自动陪聊
-            if get_response(message) != '亲爱的，当天请求次数已用完。':
-                reply = get_response(message)
-            else:
-                reply = ''
-            return reply
-    elif type == 'Picture':
-        # 识别图中文字
-        path = os.path.join('./getImages/' + msg.file_name)
-        msg.get_file(path)
-        return getMessageByImage(msg.file_name)
+        # else:
+        #     # 机器人自动陪聊
+        #     if get_response(message) != '亲爱的，当天请求次数已用完。':
+        #         reply = get_response(message)
+        #     else:
+        #         reply = ''
+        #     return reply
+    # elif type == 'Picture':
+    #     # 识别图中文字
+    #     path = os.path.join('./getImages/' + msg.file_name)
+    #     msg.get_file(path)
+    #     return getMessageByImage(msg.file_name)
 
         # 自动回复表情包
         # searchImg('')
